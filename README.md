@@ -1,34 +1,4 @@
-preparation du premier principes dans reacte atraver un mini tp " gestion stock "
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#preparation du premier principes dans reacte atraver un mini tp " gestion stock "
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
